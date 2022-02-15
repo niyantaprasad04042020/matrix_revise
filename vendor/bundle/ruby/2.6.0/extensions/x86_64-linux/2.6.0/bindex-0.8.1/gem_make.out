@@ -1,0 +1,15 @@
+current directory: /home/lpn-20/Desktop/matrix_revise/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/home/lpn-20/.rbenv/versions/2.6.5/bin/ruby -I /home/lpn-20/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20220215-1365032-i0dg6u.rb extconf.rb
+creating Makefile
+
+current directory: /home/lpn-20/Desktop/matrix_revise/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/lpn-20/Desktop/matrix_revise/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/lpn-20/Desktop/matrix_revise/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20220215-1365032-1i9me59/skiptrace/internal
